@@ -29,6 +29,12 @@ Leo Arellano
 "Leo Arellano"
 ```
 
+## Configuration
+
+There's some boilerplate laid out in `config.json` to get you started, hopefully
+most of these settings are self-explanatory.  `search_radius` is in meters, and
+a list of category_filter values can be found [in the Yelp API docs](http://www.yelp.com/developers/documentation/v2/all_category_list)
+
 ## Tests
 Ain't nobody got time fo dat!
 
