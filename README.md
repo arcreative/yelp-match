@@ -7,7 +7,7 @@ and it works pretty well for such a task.
 
 ## Usage
 
-#### Syntax
+#### syntax
 ```sh
 npm install
 node index.js dentists.csv
@@ -28,6 +28,9 @@ Leo Arellano
 "Pastel Dental","Miette","4","http://www.yelp.com/biz/miette-san-francisco-4","4156266221"
 "Leo Arellano"
 ```
+
+## Tests
+Ain't nobody got time fo dat!
 
 ## Contributions
 
