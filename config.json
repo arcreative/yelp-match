@@ -1,0 +1,11 @@
+{
+    "search_radius": 1600,
+    "location": "San Francisco, CA",
+    "category_filter": null,
+    "yelp": {
+        "consumer_key": "",
+        "consumer_secret": "",
+        "token": "",
+        "token_secret": ""
+    }
+}
